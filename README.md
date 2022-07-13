@@ -1,3 +1,6 @@
+<img src="https://badges.strrl.dev/visits/nevillionaire/sorting_algorithms?style=flat-square&color=red&logo=github&a=0">
+
+
 # Sorting Algorithms
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
@@ -20,4 +23,4 @@ This project implements the following sorting algorithms:
 - Dealer
 
 ## Authors:
-- Nevillionaire.
+- Man Like Nevillionaire.
